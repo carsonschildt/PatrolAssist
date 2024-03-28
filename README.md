@@ -1,42 +1,41 @@
 <div align="center">
-
-  <h1>PatrolAssist ⛰️</h1>
-
-— The ultimate app for ski patrollers to easily manage daily tasks
-
-[![Version](https://img.shields.io/apple-store/v/id/PatrolAssist?style=flat)](https://itunes.apple.com/app/id/PatrolAssist)
-[![Reviews](https://img.shields.io/apple-store/ratings/id/PatrolAssist?style=flat)](https://itunes.apple.com/app/id/PatrolAssist)
-[![License](https://img.shields.io/cocoapods/l/PodName?style=flat)](https://github.com/myusername/PatrolAssist/blob/master/LICENSE)
-
-![PatrolAssistDemo](docs/images/demo.png)
-
-> PatrolAssist is the ultimate tool for ski patrollers, bringing together a suite of features designed for maximum efficiency and safety in the field.
+  <img src=".gitignore/Group 3.png">
+  <h2>Welcome! 👋</h2>
+  <h3>PatrolAssist is a free and open-soruce iOS app that is currently in development that helps ski patrollers do their everday tasks effeciently and streamlined.</h3>
 </div>
-## Features
 
-- **Patient Logging**: Quickly and easily log patient information, including name, age, and injuries
-- **Ski Pass Info**: Automatically collect patient information from their ski pass
-- **Emergency Actions**: Quickly access emergency protocols and procedures
-- **First-Aid Support**: Access to first-aid resources and procedures
-- **Rescue Team Communication**: Stay connected with your team in real-time
-- **Inventory Management**: Keep track of medical supplies and equipment
-- **Location Services**: Real-time location services to track and manage the team's location
-- **Weather Alerts**: Access to real-time weather updates and alerts
-- **Incident Management**: Manage opened, in-progress, and closed incidents
-- **Built-in Camera**: Access to the camera to document incidents and generate reports
-- **Reporting**: Create and submit incident reports
-- **Trail Maps**: Access to real-time, interactive trail maps
+<br>
 
-## Screenshots
+## App Features 💡
 
-<img src="docs/images/screen01.png" width="200"> <img src="docs/images/screen02.png" width="200"> <img src="docs/images/screen03.png" width="200"> <img src="docs/images/screen04.png" width="200">
+- Real-Time Updates: Get up-to-the-minute information on weather conditions, ski slope status, and location of resources, helping you make informed decisions and respond to emergencies effectively.
 
-## Feedback
+- Digital Incident Reporting: Easily document and submit injury reports using customizable digital forms, reducing paperwork and improving record-keeping.
 
-We would love to hear your feedback about PatrolAssist! If you have any suggestions, issues or comments, please let us know by contacting [support](https://mywebsite.com/support).
+- Equipment Tracking and Maintenance: Keep track of daily equipment checks and manage maintenance activities, ensuring everything is in good working order and ready for use.
 
-## Special Thanks
+- Communication Platform: Stay connected with your team and other resort staff through an efficient and intuitive communication platform, facilitating collaboration and coordination.
 
-This project's sponsors are a big part of making this app successful. Their support helps fund new hardware and software tools to test against, which drives up quality.
+- Training and Resources: Access up-to-date training materials, SOPs, and resources, ensuring you're always equipped with the latest information and best practices for your role.
 
-Note: Update link and app id for the [Download on the App Store](https://itunes.apple.com/app/id/PatrolAssist), [Support](https://mywebsite.com/support), and [Join our Community](https://mywebsite.com/community) to the actual website links and app id.
+- Patrol Planning: Streamline your patrol planning, assigning patrollers to specific areas, monitoring patrol progress, and tracking tasks that need to be completed.
+    
+- Offline Functionality: Enjoy uninterrupted access to essential app features even when offline, ensuring you can carry out your duties effectively without relying on internet connectivity.
+
+  
+
+## Getting Started 🚀
+
+***PatrolAssist is designed to be user-friendly and easy to use. To get started, follow these steps:***
+
+- Download and Install: Download the PatrolAssist app from the App Store or TestFlight for beta access.
+
+- Create Account: Sign up for a PatrolAssist account using your email address.
+
+- Configure Your Profile: Set up your profile by providing necessary information such as your name, role, and contact details.
+
+- Explore the App: Familiarize yourself with the app's features, such as the Real-Time Updates, Digital Incident Reporting, Equipment Tracking, Communication Platform, and Patrol Planning.
+
+- Customize Settings: Tailor the app to your specific needs and preferences by configuring the settings, such as the default view, notification preferences, and personalized interface.
+
+- Start Your Patrol: Once you've completed the setup, you're ready to start your patrol and use the app to assist you in your everyday tasks.
