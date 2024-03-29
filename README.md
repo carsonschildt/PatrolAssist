@@ -1,7 +1,7 @@
 <div align="center">
   <img src=".gitignore/Group 3.png">
   <h2>Welcome! 👋</h2>
-  <h3>PatrolAssist is a free and open-soruce iOS app that is currently in development that helps ski patrollers do their everday tasks effeciently and streamlined.</h3>
+  <h3>PatrolAssist is a free and open-source iOS app that is currently in development that helps ski patrollers do their everyday tasks efficiently and streamlined.</h3>
 </div>
 
 <br>
@@ -36,6 +36,6 @@
 
 - Explore the App: Familiarize yourself with the app's features, such as the Real-Time Updates, Digital Incident Reporting, Equipment Tracking, Communication Platform, and Patrol Planning.
 
-- Customize Settings: Tailor the app to your specific needs and preferences by configuring the settings, such as the default view, notification preferences, and personalized interface.
+- Customize Settings: Tailor the app to your specific needs and preferences by configuring the settings, such as the default view, and personalized interface.
 
 - Start Your Patrol: Once you've completed the setup, you're ready to start your patrol and use the app to assist you in your everyday tasks.
