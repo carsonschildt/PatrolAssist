@@ -28,7 +28,7 @@
 
 ***PatrolAssist is designed to be user-friendly and easy to use. To get started, follow these steps:***
 
-- Download and Install: Download the PatrolAssist app from the App Store or TestFlight. **(This option is not available currently)**
+- Download and Install: Download the PatrolAssist app from the App Store. **(This option is not available currently)**
 
 - Create Account: Sign up for a PatrolAssist account using your email address.
 
